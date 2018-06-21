@@ -58,7 +58,7 @@ Signed,
 -  Michael Bishop [@miklb](https://github.com/miklb)
 -  Esteban Rocha [@Esteban-Rocha](https://github.com/Esteban-Rocha)
 -  Aung Naing Oo [@o92](https://github.com/o92)
-
+-Sandeep Kumar Singh [sandysingh01]()https://github.com/sandysingh01
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
 **[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)**
